@@ -1,0 +1,13844 @@
+3
+Bundesliga
+Germany
+5
+Bayer Leverkusen
+6
+11
+-1
+3
+Lukas Hardecky
+30
+1
+0
+0
+0
+0
+76
+70
+79
+Josip Stanisic
+26
+2
+1
+0
+0
+0
+79
+73
+80
+Jonathan Tah
+27
+4
+1
+1
+0
+0
+83
+80
+70
+Alejandro Grimaldo
+26
+20
+1
+1
+0
+0
+80
+73
+91
+Jeremie Frimpong
+22
+30
+1
+0
+0
+1
+90
+86
+92
+Granit Xhaka
+30
+34
+2
+0
+0
+0
+86
+82
+91
+Gustavo Puerta
+23
+32
+2
+0
+1
+0
+83
+80
+88
+Florian Wirtz
+24
+10
+2
+1
+0
+0
+92
+90
+93
+Patrik Schick
+28
+14
+3
+0
+0
+0
+93
+90
+94
+Victor Boniface
+29
+22
+3
+0
+0
+0
+88
+80
+93
+Borja Iglesias
+33
+9
+3
+0
+0
+0
+87
+82
+80
+Xavi Alonso
+38
+2
+Bayer Leverkusen
+Bayern Munich
+7
+11
+-1
+1
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+1
+1
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Borussia Dortmund
+9
+11
+0
+1
+Gregor Kobel
+29
+1
+0
+0
+0
+0
+73
+77
+71
+Mats Hummels
+36
+15
+1
+0
+0
+1
+80
+83
+76
+Niklas Sule
+31
+25
+1
+0
+0
+0
+84
+83
+90
+Marius Wolf
+23
+19
+1
+1
+0
+0
+81
+75
+73
+Julian Ryerson
+21
+26
+1
+0
+0
+1
+70
+83
+75
+Julian Brandt
+26
+17
+2
+0
+0
+0
+79
+73
+81
+Marco Reus
+33
+11
+2
+3
+0
+0
+89
+85
+90
+Marcel Sabitzer
+28
+20
+2
+0
+0
+0
+73
+77
+71
+Jadon Sancho
+24
+10
+3
+0
+1
+0
+83
+90
+87
+Karim Adeyemi
+26
+27
+3
+2
+0
+0
+73
+81
+86
+Donyell Malen
+30
+21
+3
+0
+0
+0
+70
+80
+93
+Edin Terzic
+37
+7
+Borussia Dortmund
+Eintracht Frankfurt
+7
+11
+-1
+1
+Kevin Trapp
+32
+1
+0
+0
+0
+0
+86
+82
+88
+Christopher Lenz
+28
+25
+1
+0
+0
+0
+84
+90
+73
+Makoto Hasebe
+24
+20
+1
+0
+0
+0
+82
+76
+79
+Erik Durm
+20
+37
+1
+1
+1
+3
+80
+70
+85
+Evan Ndicka
+29
+2
+1
+0
+0
+0
+86
+82
+90
+Sebastian Rode
+30
+17
+2
+1
+0
+0
+79
+82
+83
+Daichi Kamada
+27
+15
+2
+1
+0
+0
+79
+91
+83
+Filip Kostic
+29
+10
+2
+1
+0
+0
+76
+87
+82
+Rafael Borre
+32
+19
+3
+0
+0
+0
+79
+76
+80
+Jens Petter Hauge
+24
+23
+3
+0
+0
+0
+76
+82
+91
+Sam Lammers
+29
+9
+3
+0
+1
+0
+84
+82
+79
+Dino Topmuler
+38
+3
+Eintracht Frankfurt
+Werder Bremen
+5
+11
+-1
+1
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Niklas Stark
+26
+4
+1
+0
+0
+1
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+Naby Keita
+29
+18
+2
+1
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+1
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Ole Werner
+63
+25
+Werder Bremen
+12
+Bayer Leverkusen
+0
+11
+-1
+3
+Lukas Hardecky
+30
+1
+0
+0
+0
+0
+76
+70
+79
+Josip Stanisic
+26
+2
+1
+0
+0
+0
+79
+73
+80
+Jonathan Tah
+27
+4
+1
+0
+0
+0
+83
+80
+70
+Alejandro Grimaldo
+26
+20
+1
+0
+0
+0
+80
+73
+91
+Jeremie Frimpong
+22
+30
+1
+0
+0
+0
+90
+86
+92
+Granit Xhaka
+30
+34
+2
+0
+0
+0
+86
+82
+91
+Gustavo Puerta
+23
+32
+1
+0
+1
+0
+83
+80
+88
+Florian Wirtz
+24
+10
+1
+0
+0
+0
+92
+90
+93
+Patrik Schick
+28
+14
+3
+0
+0
+0
+93
+90
+94
+Victor Boniface
+29
+22
+3
+0
+0
+0
+88
+80
+93
+Borja Iglesias
+33
+9
+3
+0
+0
+0
+87
+82
+80
+Xavi Alonso
+38
+2
+Bayer Leverkusen
+Eintracht Frankfurt
+3
+11
+-1
+1
+Kevin Trapp
+32
+1
+0
+0
+0
+0
+86
+82
+88
+Evan Ndicka
+29
+2
+1
+0
+0
+0
+86
+82
+90
+Christopher Lenz
+28
+25
+1
+0
+0
+0
+84
+90
+73
+Makoto Hasebe
+24
+20
+1
+0
+0
+0
+82
+76
+79
+Erik Durm
+20
+37
+1
+0
+1
+2
+80
+70
+85
+Sebastian Rode
+30
+17
+2
+1
+0
+0
+79
+82
+83
+Daichi Kamada
+27
+15
+2
+0
+0
+0
+79
+91
+83
+Filip Kostic
+29
+10
+2
+1
+0
+0
+76
+87
+82
+Sam Lammers
+29
+9
+3
+0
+0
+0
+84
+82
+79
+Rafael Borre
+32
+19
+3
+0
+0
+0
+79
+76
+80
+Jens Petter Hauge
+24
+23
+3
+0
+0
+0
+76
+82
+91
+Dino Topmuler
+38
+3
+Eintracht Frankfurt
+BayArena
+KSM
+30000
+Manuel Wenshtefel
+31
+11
+11
+8
+2024
+6
+45
+69
+72
+84
+86
+89
+0
+1
+3
+3
+0
+2
+1
+-1
+Erik Durm
+20
+37
+1
+0
+1
+2
+80
+70
+85
+Filip Kostic
+29
+10
+2
+1
+0
+0
+76
+87
+82
+Sebastian Rode
+30
+17
+2
+1
+0
+0
+79
+82
+83
+Jeremie Frimpong
+22
+30
+1
+0
+0
+0
+90
+86
+92
+Gustavo Puerta
+23
+32
+1
+0
+1
+0
+83
+80
+88
+Erik Durm
+20
+37
+1
+0
+1
+2
+80
+70
+85
+2
+Gustavo Puerta
+23
+32
+1
+0
+1
+0
+83
+80
+88
+Erik Durm
+20
+37
+1
+0
+1
+2
+80
+70
+85
+0
+2
+Werder Bremen
+3
+11
+-1
+1
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Marco Friedl
+28
+32
+1
+0
+0
+0
+85
+83
+89
+Niklas Stark
+26
+4
+1
+0
+0
+0
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Naby Keita
+29
+18
+2
+0
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+0
+0
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Ole Werner
+63
+25
+Werder Bremen
+Bayer Leverkusen
+0
+11
+-1
+3
+Lukas Hardecky
+30
+1
+0
+0
+0
+0
+76
+70
+79
+Josip Stanisic
+26
+2
+1
+0
+0
+0
+79
+73
+80
+Jonathan Tah
+27
+4
+1
+0
+0
+0
+83
+80
+70
+Alejandro Grimaldo
+26
+20
+1
+0
+0
+0
+80
+73
+91
+Jeremie Frimpong
+22
+30
+1
+0
+0
+0
+90
+86
+92
+Granit Xhaka
+30
+34
+2
+0
+0
+0
+86
+82
+91
+Gustavo Puerta
+23
+32
+1
+0
+1
+0
+83
+80
+88
+Florian Wirtz
+24
+10
+1
+0
+0
+0
+92
+90
+93
+Patrik Schick
+28
+14
+3
+0
+0
+0
+93
+90
+94
+Victor Boniface
+29
+22
+3
+0
+0
+0
+88
+80
+93
+Borja Iglesias
+33
+9
+3
+0
+0
+0
+87
+82
+80
+Xavi Alonso
+38
+2
+Bayer Leverkusen
+Weserstadion
+ILU
+42000
+Florian Mayer
+48
+17
+23
+8
+2024
+2
+62
+71
+0
+0
+0
+0
+0
+3
+3
+-1
+-1
+-1
+-1
+-1
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+0
+2
+0
+Bayern Munich
+4
+11
+-1
+1
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+0
+1
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Werder Bremen
+4
+11
+-1
+3
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Marco Friedl
+28
+32
+1
+0
+0
+0
+85
+83
+89
+Niklas Stark
+26
+4
+1
+0
+0
+0
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Naby Keita
+29
+18
+2
+0
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+0
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Ole Werner
+63
+25
+Werder Bremen
+Allianz Arena
+IUE
+80000
+Manuel Wenshtefel
+31
+11
+29
+8
+2024
+3
+57
+59
+65
+0
+0
+0
+0
+2
+2
+1
+-1
+-1
+-1
+-1
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+0
+77
+76
+82
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+2
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+0
+77
+76
+82
+0
+0
+Bayern Munich
+4
+11
+-1
+3
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+0
+1
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Eintracht Frankfurt
+3
+11
+-1
+1
+Kevin Trapp
+32
+1
+0
+0
+0
+0
+86
+82
+88
+Evan Ndicka
+29
+2
+1
+0
+0
+0
+86
+82
+90
+Christopher Lenz
+28
+25
+1
+0
+0
+0
+84
+90
+73
+Makoto Hasebe
+24
+20
+1
+0
+0
+0
+82
+76
+79
+Erik Durm
+20
+37
+1
+0
+1
+2
+80
+70
+85
+Sebastian Rode
+30
+17
+2
+1
+0
+0
+79
+82
+83
+Daichi Kamada
+27
+15
+2
+0
+0
+0
+79
+91
+83
+Filip Kostic
+29
+10
+2
+1
+0
+0
+76
+87
+82
+Sam Lammers
+29
+9
+3
+0
+0
+0
+84
+82
+79
+Rafael Borre
+32
+19
+3
+0
+0
+0
+79
+76
+80
+Jens Petter Hauge
+24
+23
+3
+0
+0
+0
+76
+82
+91
+Dino Topmuler
+38
+3
+Eintracht Frankfurt
+Deutsche Bank Park
+LLM
+58000
+Felix Brych
+44
+13
+9
+9
+2024
+7
+17
+65
+77
+82
+87
+87
+89
+0
+3
+2
+1
+3
+2
+0
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Kingsley Coman
+27
+11
+3
+0
+1
+0
+83
+80
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+2
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Kingsley Coman
+27
+11
+3
+0
+1
+0
+83
+80
+90
+2
+0
+Werder Bremen
+5
+11
+-1
+1
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+Niklas Stark
+26
+4
+1
+0
+0
+1
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Naby Keita
+29
+18
+2
+1
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+1
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Ole Werner
+63
+25
+Werder Bremen
+Bayer Leverkusen
+6
+11
+-1
+3
+Lukas Hardecky
+30
+1
+0
+0
+0
+0
+76
+70
+79
+Josip Stanisic
+26
+2
+1
+0
+0
+0
+79
+73
+80
+Jonathan Tah
+27
+4
+1
+1
+0
+0
+83
+80
+70
+Alejandro Grimaldo
+26
+20
+1
+1
+0
+0
+80
+73
+91
+Jeremie Frimpong
+22
+30
+1
+0
+0
+1
+90
+86
+92
+Granit Xhaka
+30
+34
+2
+0
+0
+0
+86
+82
+91
+Gustavo Puerta
+23
+32
+1
+0
+1
+0
+83
+80
+88
+Florian Wirtz
+24
+10
+1
+1
+0
+0
+92
+90
+93
+Patrik Schick
+28
+14
+3
+0
+0
+0
+93
+90
+94
+Victor Boniface
+29
+22
+3
+0
+0
+0
+88
+80
+93
+Borja Iglesias
+33
+9
+3
+0
+0
+0
+87
+82
+80
+Xavi Alonso
+38
+2
+Bayer Leverkusen
+BayArena
+KSM
+30000
+Florian Mayer
+48
+17
+11
+11
+2024
+4
+66
+84
+85
+90
+0
+0
+0
+3
+1
+0
+2
+-1
+-1
+-1
+Florian Wirtz
+24
+10
+1
+1
+0
+0
+92
+90
+93
+Jeremie Frimpong
+22
+30
+1
+0
+0
+1
+90
+86
+92
+Josip Stanisic
+26
+2
+1
+0
+0
+0
+79
+73
+80
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+1
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+0
+1
+Bayern Munich
+7
+11
+-1
+1
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+1
+1
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Werder Bremen
+5
+11
+-1
+3
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+Niklas Stark
+26
+4
+1
+0
+0
+1
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Naby Keita
+29
+18
+2
+1
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+1
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Ole Werner
+63
+25
+Werder Bremen
+Allianz Arena
+IUE
+80000
+Felix Brych
+44
+13
+15
+11
+2024
+2
+81
+83
+0
+0
+0
+0
+0
+1
+3
+-1
+-1
+-1
+-1
+-1
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+1
+77
+76
+82
+Kingsley Coman
+27
+11
+3
+1
+1
+0
+83
+80
+90
+0
+1
+0
+Eintracht Frankfurt
+7
+11
+-1
+3
+Kevin Trapp
+32
+1
+0
+0
+0
+0
+86
+82
+88
+Evan Ndicka
+29
+2
+1
+0
+0
+0
+86
+82
+90
+Christopher Lenz
+28
+25
+1
+0
+0
+0
+84
+90
+73
+Makoto Hasebe
+24
+20
+1
+0
+0
+0
+82
+76
+79
+Erik Durm
+20
+37
+1
+1
+1
+3
+80
+70
+85
+Sebastian Rode
+30
+17
+2
+1
+0
+0
+79
+82
+83
+Daichi Kamada
+27
+15
+2
+1
+0
+0
+79
+91
+83
+Filip Kostic
+29
+10
+2
+1
+0
+0
+76
+87
+82
+Sam Lammers
+29
+9
+3
+0
+1
+0
+84
+82
+79
+Rafael Borre
+32
+19
+3
+0
+0
+0
+79
+76
+80
+Jens Petter Hauge
+24
+23
+3
+0
+0
+0
+76
+82
+91
+Dino Topmuler
+38
+3
+Eintracht Frankfurt
+Werder Bremen
+5
+11
+-1
+3
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+Niklas Stark
+26
+4
+1
+0
+0
+1
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Naby Keita
+29
+18
+2
+1
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+1
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Ole Werner
+63
+25
+Werder Bremen
+Weserstadion
+ILU
+42000
+Florian Mayer
+48
+17
+19
+11
+2024
+3
+57
+62
+82
+0
+0
+0
+0
+3
+3
+1
+-1
+-1
+-1
+-1
+Naby Keita
+29
+18
+2
+1
+0
+0
+79
+75
+81
+Erik Durm
+20
+37
+1
+1
+1
+3
+80
+70
+85
+Niklas Stark
+26
+4
+1
+0
+0
+1
+73
+82
+76
+0
+1
+1
+Bayern Munich
+7
+11
+-1
+1
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+1
+1
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Eintracht Frankfurt
+7
+11
+0
+3
+Kevin Trapp
+32
+1
+0
+0
+0
+0
+86
+82
+88
+Evan Ndicka
+29
+2
+1
+0
+0
+0
+86
+82
+90
+Christopher Lenz
+28
+25
+1
+0
+0
+0
+84
+90
+73
+Makoto Hasebe
+24
+20
+1
+0
+0
+0
+82
+76
+79
+Erik Durm
+20
+37
+1
+1
+1
+3
+80
+70
+85
+Sebastian Rode
+30
+17
+2
+1
+0
+0
+79
+82
+83
+Daichi Kamada
+27
+15
+2
+1
+0
+0
+79
+91
+83
+Filip Kostic
+29
+10
+2
+1
+0
+0
+76
+87
+82
+Sam Lammers
+29
+9
+3
+0
+1
+0
+84
+82
+79
+Rafael Borre
+32
+19
+3
+0
+0
+0
+79
+76
+80
+Jens Petter Hauge
+24
+23
+3
+0
+0
+0
+76
+82
+91
+Dino Topmuler
+38
+3
+Eintracht Frankfurt
+Deutsche Bank Park
+LLM
+58000
+Florian Mayer
+48
+17
+24
+11
+2024
+4
+61
+82
+85
+86
+0
+0
+0
+3
+1
+2
+0
+-1
+-1
+-1
+Daichi Kamada
+27
+15
+2
+1
+0
+0
+79
+91
+83
+Erik Durm
+20
+37
+1
+1
+1
+3
+80
+70
+85
+Sam Lammers
+29
+9
+3
+0
+1
+0
+84
+82
+79
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+1
+Sam Lammers
+29
+9
+3
+0
+1
+0
+84
+82
+79
+0
+1
+Borussia Dortmund
+9
+11
+-1
+1
+Gregor Kobel
+29
+1
+0
+0
+0
+0
+73
+77
+71
+Mats Hummels
+36
+15
+1
+0
+0
+1
+80
+83
+76
+Niklas Sule
+31
+25
+1
+0
+0
+0
+84
+83
+90
+Marius Wolf
+23
+19
+1
+1
+0
+0
+81
+75
+73
+Julian Ryerson
+21
+26
+1
+0
+0
+1
+70
+83
+75
+Julian Brandt
+26
+17
+2
+0
+0
+0
+79
+73
+81
+Marco Reus
+33
+11
+2
+3
+0
+0
+89
+85
+90
+Marcel Sabitzer
+28
+20
+2
+0
+0
+0
+73
+77
+71
+Jadon Sancho
+24
+10
+3
+0
+1
+0
+83
+90
+87
+Karim Adeyemi
+26
+27
+3
+2
+0
+0
+73
+81
+86
+Donyell Malen
+30
+21
+3
+0
+0
+0
+70
+80
+93
+Edin Terzic
+37
+7
+Borussia Dortmund
+Werder Bremen
+5
+11
+-1
+3
+Jiri Pavlenka
+28
+1
+0
+1
+0
+0
+78
+70
+73
+Marco Friedl
+28
+32
+1
+0
+1
+0
+85
+83
+89
+Niklas Stark
+26
+4
+1
+0
+0
+1
+73
+82
+76
+Amos Pieper
+26
+5
+1
+0
+0
+0
+79
+73
+76
+Julian Malatini
+22
+22
+1
+1
+0
+0
+83
+86
+81
+Naby Keita
+29
+18
+2
+1
+0
+0
+79
+75
+81
+Leonardo Bittencourt
+30
+10
+2
+0
+1
+1
+77
+76
+82
+Leon Opitz
+26
+35
+2
+0
+0
+0
+79
+75
+83
+Dawid Kownacki
+24
+9
+3
+0
+0
+0
+86
+83
+87
+Marvin Ducksch
+27
+7
+3
+0
+0
+0
+89
+85
+78
+Nick Woltemade
+22
+29
+3
+0
+0
+0
+78
+79
+83
+Ole Werner
+63
+25
+Werder Bremen
+Signal Iduna Park
+EER
+65000
+Markus Feliks
+39
+11
+25
+11
+2024
+2
+44
+64
+0
+0
+0
+0
+0
+3
+3
+-1
+-1
+-1
+-1
+-1
+Karim Adeyemi
+26
+27
+3
+2
+0
+0
+73
+81
+86
+Marco Reus
+33
+11
+2
+3
+0
+0
+89
+85
+90
+0
+2
+0
+Bayern Munich
+7
+11
+-1
+1
+Manuel Neuer
+36
+1
+0
+0
+1
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+1
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+1
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+1
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+2
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+1
+1
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Bayer Leverkusen
+6
+11
+-1
+3
+Lukas Hardecky
+30
+1
+0
+0
+0
+0
+76
+70
+79
+Josip Stanisic
+26
+2
+1
+0
+0
+0
+79
+73
+80
+Jonathan Tah
+27
+4
+1
+1
+0
+0
+83
+80
+70
+Alejandro Grimaldo
+26
+20
+1
+1
+0
+0
+80
+73
+91
+Jeremie Frimpong
+22
+30
+1
+0
+0
+1
+90
+86
+92
+Granit Xhaka
+30
+34
+2
+0
+0
+0
+86
+82
+91
+Gustavo Puerta
+23
+32
+1
+0
+1
+0
+83
+80
+88
+Florian Wirtz
+24
+10
+1
+1
+0
+0
+92
+90
+93
+Patrik Schick
+28
+14
+3
+0
+0
+0
+93
+90
+94
+Victor Boniface
+29
+22
+3
+0
+0
+0
+88
+80
+93
+Borja Iglesias
+33
+9
+3
+0
+0
+0
+87
+82
+80
+Xavi Alonso
+38
+2
+Bayer Leverkusen
+BayArena
+KSM
+30000
+Manuel Wenshtefel
+31
+11
+28
+11
+2024
+3
+39
+65
+86
+0
+0
+0
+0
+3
+0
+3
+-1
+-1
+-1
+-1
+Jonathan Tah
+27
+4
+1
+1
+0
+0
+83
+80
+70
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Alejandro Grimaldo
+26
+20
+1
+1
+0
+0
+80
+73
+91
+0
+0
+2
+Bayern Munich
+0
+11
+-1
+3
+Manuel Neuer
+36
+1
+0
+0
+0
+0
+79
+81
+83
+Matthijs De Ligt
+24
+2
+1
+1
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+0
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+0
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+0
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+0
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+0
+0
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Borussia Dortmund
+6
+11
+-1
+3
+Gregor Kobel
+29
+1
+0
+0
+0
+0
+73
+77
+71
+Mats Hummels
+36
+15
+1
+0
+0
+1
+80
+83
+76
+Niklas Sule
+31
+25
+1
+0
+0
+0
+84
+83
+90
+Marius Wolf
+23
+19
+1
+1
+0
+0
+81
+75
+73
+Julian Ryerson
+21
+26
+1
+0
+0
+1
+70
+83
+75
+Julian Brandt
+26
+17
+2
+0
+0
+0
+79
+73
+81
+Marco Reus
+33
+11
+2
+2
+0
+0
+89
+85
+90
+Marcel Sabitzer
+28
+20
+2
+0
+0
+0
+73
+77
+71
+Jadon Sancho
+24
+10
+3
+0
+1
+0
+83
+90
+87
+Karim Adeyemi
+26
+27
+3
+1
+0
+0
+73
+81
+86
+Donyell Malen
+30
+21
+3
+0
+0
+0
+70
+80
+93
+Edin Terzic
+37
+7
+Borussia Dortmund
+Signal Iduna Park
+EER
+65000
+Felix Brych
+44
+13
+25
+11
+2027
+4
+33
+37
+45
+76
+0
+0
+0
+3
+3
+1
+3
+-1
+-1
+-1
+Marco Reus
+33
+11
+2
+2
+0
+0
+89
+85
+90
+Karim Adeyemi
+26
+27
+3
+1
+0
+0
+73
+81
+86
+Mats Hummels
+36
+15
+1
+0
+0
+1
+80
+83
+76
+Matthijs De Ligt
+24
+4
+1
+1
+0
+0
+81
+86
+88
+0
+1
+2
+Bayern Munich
+0
+11
+-1
+3
+Manuel Neuer
+36
+1
+0
+0
+0
+0
+79
+81
+83
+Matthijs De Ligt
+24
+4
+1
+0
+0
+0
+81
+86
+88
+Eric Dier
+28
+15
+1
+0
+0
+0
+86
+83
+90
+Dayot Upamecano
+30
+2
+1
+0
+0
+0
+77
+80
+73
+Alphonso Davies
+25
+19
+1
+0
+0
+0
+94
+89
+93
+Joshua Kimmich
+27
+6
+2
+0
+0
+0
+81
+83
+82
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+Jamal Musiala
+23
+42
+2
+0
+0
+0
+94
+86
+73
+Leroy Sane
+29
+10
+3
+0
+0
+0
+94
+90
+89
+Kingsley Coman
+27
+11
+3
+0
+0
+0
+83
+80
+90
+Harry Kane
+32
+9
+3
+0
+0
+0
+87
+90
+93
+Thomas Tuchel
+38
+9
+Bayern Munich
+Borussia Dortmund
+3
+11
+-1
+1
+Gregor Kobel
+29
+1
+0
+0
+0
+0
+73
+77
+71
+Mats Hummels
+36
+15
+1
+0
+0
+0
+80
+83
+76
+Niklas Sule
+31
+25
+1
+0
+0
+0
+84
+83
+90
+Marius Wolf
+23
+19
+1
+1
+0
+0
+81
+75
+73
+Julian Ryerson
+21
+26
+1
+0
+0
+1
+70
+83
+75
+Julian Brandt
+26
+17
+2
+0
+0
+0
+79
+73
+81
+Marco Reus
+33
+11
+2
+1
+0
+0
+89
+85
+90
+Marcel Sabitzer
+28
+20
+2
+0
+0
+0
+73
+77
+71
+Jadon Sancho
+24
+10
+3
+0
+1
+0
+83
+90
+87
+Karim Adeyemi
+26
+27
+3
+0
+0
+0
+73
+81
+86
+Donyell Malen
+30
+21
+3
+0
+0
+0
+70
+80
+93
+Edin Terzic
+37
+7
+Borussia Dortmund
+Signal Iduna Park
+EER
+65000
+Florian Mayer
+48
+17
+25
+11
+2029
+5
+11
+82
+87
+88
+90
+0
+0
+3
+2
+3
+1
+1
+-1
+-1
+Marco Reus
+33
+11
+2
+1
+0
+0
+89
+85
+90
+Jadon Sancho
+24
+10
+3
+0
+1
+0
+83
+90
+87
+Marius Wolf
+23
+19
+1
+1
+0
+0
+81
+75
+73
+Julian Ryerson
+21
+26
+1
+0
+0
+1
+70
+83
+75
+Leon Goretzka
+31
+8
+2
+0
+0
+1
+87
+82
+91
+1
+Jadon Sancho
+24
+10
+3
+0
+1
+0
+83
+90
+87
+0
+2
+6
+Felix Brych
+44
+13
+Florian Mayer
+48
+17
+Marco Shultz
+33
+6
+Manuel Wenshtefel
+31
+11
+Antonio Brause
+51
+22
+Markus Feliks
+39
+11
+5
+Signal Iduna Park
+EER
+65000
+Weserstadion
+ILU
+42000
+Allianz Arena
+IUE
+80000
+BayArena
+KSM
+30000
+Deutsche Bank Park
+LLM
+58000
+La Liga
+Spain
+5
+Atletico De Madrid
+7
+11
+-1
+3
+Jan Oblak
+30
+13
+0
+1
+0
+1
+84
+82
+87
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+1
+84
+86
+87
+Stefan Savic
+33
+15
+1
+0
+0
+0
+83
+85
+80
+Mario Hermoso
+28
+22
+1
+1
+0
+0
+84
+83
+82
+Axel Witsel
+31
+35
+1
+0
+0
+0
+82
+77
+86
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+Koke
+28
+6
+2
+0
+0
+0
+78
+82
+72
+Saul Niguez
+27
+8
+2
+0
+0
+1
+75
+82
+77
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alvaro Morata
+33
+19
+3
+0
+0
+0
+85
+88
+90
+Memphis Depay
+30
+9
+3
+1
+0
+0
+78
+82
+88
+Diego Simeone
+48
+13
+Atletico De Madrid
+Barcelona
+4
+11
+-1
+1
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+1
+87
+85
+86
+Joao Cancelo
+29
+2
+1
+0
+0
+0
+85
+83
+89
+Alejandro Baled
+23
+3
+1
+0
+0
+0
+86
+84
+88
+Ronald Araujo
+27
+4
+1
+0
+0
+0
+83
+88
+90
+Jules Kounde
+27
+23
+1
+1
+1
+0
+86
+84
+90
+Gavi
+18
+6
+2
+0
+0
+1
+83
+88
+81
+Pedri
+22
+8
+2
+1
+0
+0
+81
+86
+82
+Frenkie De Jong
+26
+21
+2
+0
+0
+0
+82
+80
+79
+Robert Lewandowski
+35
+9
+3
+0
+0
+2
+86
+84
+91
+Raphinha
+30
+11
+3
+0
+0
+1
+84
+83
+87
+Joao Felix
+28
+14
+3
+0
+0
+0
+83
+82
+79
+Xavi Hernandez
+38
+5
+Barcelona
+Real Betis
+4
+11
+-1
+3
+Rui Silva
+28
+13
+0
+0
+1
+1
+77
+70
+76
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+German Alejo Pezzella
+30
+6
+1
+0
+0
+0
+74
+83
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+Marc Bartra
+30
+15
+1
+1
+0
+0
+72
+79
+73
+Nabil Fekir
+31
+8
+2
+0
+0
+0
+79
+75
+82
+Fransisco Alarcon Suarez
+34
+22
+2
+2
+0
+0
+79
+82
+83
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+Ayoze Perez
+27
+10
+3
+0
+0
+0
+76
+82
+81
+Willian Jose
+30
+12
+3
+0
+0
+0
+83
+77
+80
+Chimy Avila
+29
+9
+3
+0
+0
+0
+79
+71
+82
+Manuel Pellegrini
+27
+8
+Real Betis
+Real Madrid
+7
+11
+-1
+3
+Thibuat Courtuis
+32
+1
+0
+1
+0
+0
+88
+87
+91
+Antonio Rudiger
+30
+22
+1
+1
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+1
+0
+87
+83
+91
+Eder Millitao
+24
+3
+1
+0
+1
+1
+91
+89
+90
+David Alaba
+29
+4
+1
+0
+0
+0
+87
+90
+83
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+3
+3
+1
+0
+87
+85
+91
+Carlo Anchelotti
+67
+31
+Real Madrid
+Villareal
+10
+11
+-1
+3
+Pepe Reina
+39
+1
+0
+0
+1
+0
+82
+81
+79
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Juan Cuenca
+24
+5
+1
+2
+0
+0
+83
+82
+79
+Raul Albiol
+37
+3
+1
+0
+0
+0
+74
+87
+79
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Alex Baena
+28
+16
+2
+1
+0
+1
+82
+79
+81
+Denis Suarez
+27
+22
+2
+1
+0
+1
+83
+81
+79
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Gerard Moreno
+32
+7
+3
+0
+0
+0
+79
+81
+83
+Marcelino Garcia Toral
+49
+12
+Villareal
+12
+Real Madrid
+5
+11
+-1
+1
+Thibuat Courtuis
+32
+1
+0
+1
+0
+0
+88
+87
+91
+Eder Millitao
+24
+3
+1
+0
+1
+1
+91
+89
+90
+David Alaba
+29
+2
+1
+0
+0
+0
+87
+90
+83
+Antonio Rudiger
+30
+22
+1
+1
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+0
+0
+87
+83
+91
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+3
+1
+0
+0
+87
+85
+91
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Carlo Anchelotti
+67
+31
+Real Madrid
+Villareal
+9
+11
+-1
+3
+Pepe Reina
+39
+1
+0
+0
+0
+0
+82
+81
+79
+Raul Albiol
+37
+3
+1
+0
+0
+0
+74
+87
+79
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Juan Cuenca
+24
+5
+1
+1
+0
+0
+83
+82
+79
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Alex Baena
+28
+16
+2
+1
+0
+1
+82
+79
+81
+Denis Suarez
+27
+22
+2
+1
+0
+1
+83
+81
+79
+Gerard Moreno
+32
+7
+3
+0
+0
+0
+79
+81
+83
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Marcelino Garcia Toral
+49
+12
+Villareal
+Santiago Bernabeu
+ABC
+85000
+Mateu Lauz
+38
+15
+30
+8
+2024
+5
+79
+82
+85
+86
+89
+0
+0
+2
+3
+3
+2
+3
+-1
+-1
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+3
+1
+0
+0
+87
+85
+91
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Thibuat Courtuis
+32
+1
+0
+1
+0
+0
+88
+87
+91
+2
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+2
+1
+Real Madrid
+2
+11
+-1
+1
+Thibuat Courtuis
+32
+1
+0
+0
+0
+0
+88
+87
+91
+Eder Millitao
+24
+3
+1
+0
+1
+0
+91
+89
+90
+David Alaba
+29
+4
+1
+0
+0
+0
+87
+90
+83
+Antonio Rudiger
+30
+22
+1
+0
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+0
+0
+87
+83
+91
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Vinicius Junior
+22
+7
+3
+0
+0
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+3
+0
+0
+0
+87
+85
+91
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Carlo Anchelotti
+67
+31
+Real Madrid
+Barcelona
+1
+11
+-1
+3
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+0
+87
+85
+86
+Joao Cancelo
+29
+2
+1
+0
+0
+0
+85
+83
+89
+Alejandro Baled
+23
+3
+1
+0
+0
+0
+86
+84
+88
+Ronald Araujo
+27
+4
+1
+0
+0
+0
+83
+88
+90
+Jules Kounde
+27
+23
+1
+0
+1
+0
+86
+84
+90
+Gavi
+18
+6
+2
+0
+0
+0
+83
+88
+81
+Pedri
+22
+8
+2
+0
+0
+0
+81
+86
+82
+Frenkie De Jong
+26
+21
+2
+0
+0
+0
+82
+80
+79
+Robert Lewandowski
+35
+9
+3
+0
+0
+1
+86
+84
+91
+Raphinha
+30
+11
+3
+0
+0
+1
+84
+83
+87
+Joao Felix
+28
+14
+3
+0
+0
+0
+83
+82
+79
+Xavi Hernandez
+38
+5
+Barcelona
+Santiago Bernabeu
+ABC
+85000
+Mateu Lauz
+38
+15
+12
+9
+2024
+5
+34
+76
+83
+84
+90
+0
+0
+0
+2
+1
+1
+1
+-1
+-1
+Dani Carvajal
+31
+2
+1
+0
+0
+0
+87
+83
+91
+Jules Kounde
+27
+23
+1
+0
+1
+0
+86
+84
+90
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Raphinha
+30
+11
+3
+0
+0
+1
+84
+83
+87
+Robert Lewandowski
+35
+9
+3
+0
+0
+1
+86
+84
+91
+1
+Jules Kounde
+27
+23
+1
+0
+1
+0
+86
+84
+90
+0
+0
+Atletico De Madrid
+0
+11
+-1
+3
+Jan Oblak
+30
+13
+0
+0
+0
+0
+84
+82
+87
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+0
+84
+86
+87
+Stefan Savic
+33
+15
+1
+0
+0
+0
+83
+85
+80
+Mario Hermoso
+28
+22
+1
+0
+0
+0
+84
+83
+82
+Axel Witsel
+31
+35
+1
+0
+0
+0
+82
+77
+86
+Rodrigo De Paul
+29
+5
+2
+0
+0
+0
+77
+84
+79
+Koke
+28
+6
+2
+0
+0
+0
+78
+82
+72
+Saul Niguez
+27
+8
+2
+0
+0
+0
+75
+82
+77
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alvaro Morata
+33
+19
+3
+0
+0
+0
+85
+88
+90
+Memphis Depay
+30
+9
+3
+0
+0
+0
+78
+82
+88
+Diego Simeone
+48
+13
+Atletico De Madrid
+Villareal
+3
+11
+0
+3
+Pepe Reina
+39
+1
+0
+0
+0
+0
+82
+81
+79
+Raul Albiol
+37
+3
+1
+0
+0
+0
+74
+87
+79
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Eric Bailly
+29
+12
+1
+0
+0
+0
+79
+87
+72
+Juan Cuenca
+24
+5
+1
+0
+0
+0
+83
+82
+79
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Manu Trigueros
+33
+14
+2
+1
+0
+0
+83
+79
+81
+Alex Baena
+28
+16
+2
+0
+0
+1
+82
+79
+81
+Denis Suarez
+27
+22
+2
+0
+0
+1
+83
+81
+79
+Gerard Moreno
+32
+7
+3
+0
+0
+0
+79
+81
+83
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Marcelino Garcia Toral
+49
+12
+Villareal
+La Ceramica
+KTE
+43000
+Jesus Gil
+37
+6
+17
+9
+2024
+6
+20
+37
+80
+88
+89
+89
+0
+2
+2
+1
+3
+1
+3
+-1
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alex Baena
+28
+16
+2
+0
+0
+1
+82
+79
+81
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Denis Suarez
+27
+22
+2
+0
+0
+1
+83
+81
+79
+Manu Trigueros
+33
+14
+2
+1
+0
+0
+83
+79
+81
+2
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+0
+2
+Real Betis
+1
+11
+-1
+1
+Rui Silva
+28
+13
+0
+0
+0
+1
+77
+70
+76
+Marc Bartra
+30
+15
+1
+0
+0
+0
+72
+79
+73
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+German Alejo Pezzella
+30
+6
+1
+0
+0
+0
+74
+83
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+Nabil Fekir
+31
+8
+2
+0
+0
+0
+79
+75
+82
+Fransisco Alarcon Suarez
+34
+22
+2
+0
+0
+0
+79
+82
+83
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+Chimy Avila
+29
+9
+3
+0
+0
+0
+79
+71
+82
+Ayoze Perez
+27
+10
+3
+0
+0
+0
+76
+82
+81
+Willian Jose
+30
+12
+3
+0
+0
+0
+83
+77
+80
+Manuel Pellegrini
+27
+8
+Real Betis
+Real Madrid
+2
+11
+-1
+3
+Thibuat Courtuis
+32
+1
+0
+0
+0
+0
+88
+87
+91
+Eder Millitao
+24
+3
+1
+0
+1
+0
+91
+89
+90
+David Alaba
+29
+4
+1
+0
+0
+0
+87
+90
+83
+Antonio Rudiger
+30
+22
+1
+0
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+0
+0
+87
+83
+91
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Vinicius Junior
+22
+7
+3
+0
+0
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+3
+0
+0
+0
+87
+85
+91
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Carlo Anchelotti
+67
+31
+Real Madrid
+Benito Villamarin
+OME
+53000
+Carlos Mansano
+39
+10
+27
+9
+2024
+7
+35
+82
+84
+86
+88
+89
+90
+1
+1
+2
+3
+2
+2
+3
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+Rui Silva
+28
+13
+0
+0
+0
+1
+77
+70
+76
+Eder Millitao
+24
+3
+1
+0
+1
+0
+91
+89
+90
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+3
+Eder Millitao
+24
+3
+1
+0
+1
+0
+91
+89
+90
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+1
+1
+Barcelona
+4
+11
+-1
+3
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+1
+87
+85
+86
+Joao Cancelo
+29
+2
+1
+0
+0
+0
+85
+83
+89
+Alejandro Baled
+23
+3
+1
+0
+0
+0
+86
+84
+88
+Ronald Araujo
+27
+4
+1
+0
+0
+0
+83
+88
+90
+Jules Kounde
+27
+23
+1
+1
+1
+0
+86
+84
+90
+Gavi
+18
+6
+2
+0
+0
+1
+83
+88
+81
+Pedri
+22
+8
+2
+0
+0
+0
+81
+86
+82
+Frenkie De Jong
+26
+21
+2
+0
+0
+0
+82
+80
+79
+Robert Lewandowski
+35
+9
+5
+0
+0
+2
+86
+84
+91
+Raphinha
+30
+11
+2
+0
+0
+1
+84
+83
+87
+Joao Felix
+28
+14
+3
+0
+0
+0
+83
+82
+79
+Xavi Hernandez
+38
+5
+Barcelona
+Atletico De Madrid
+3
+11
+-1
+1
+Jan Oblak
+30
+13
+0
+1
+0
+0
+84
+82
+87
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+0
+84
+86
+87
+Stefan Savic
+33
+15
+1
+0
+0
+0
+83
+85
+80
+Mario Hermoso
+28
+22
+1
+0
+0
+0
+84
+83
+82
+Axel Witsel
+31
+35
+1
+0
+0
+0
+82
+77
+86
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+Koke
+28
+6
+2
+0
+0
+0
+78
+82
+72
+Saul Niguez
+27
+8
+2
+0
+0
+1
+75
+82
+77
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alvaro Morata
+33
+19
+3
+0
+0
+0
+85
+88
+90
+Memphis Depay
+30
+9
+3
+0
+0
+0
+78
+82
+88
+Diego Simeone
+48
+13
+Atletico De Madrid
+Wanda Metropolitano
+GHI
+60000
+Jesus Gil
+37
+6
+10
+10
+2024
+5
+65
+86
+87
+89
+90
+0
+0
+1
+2
+0
+0
+3
+-1
+-1
+Robert Lewandowski
+35
+9
+3
+0
+0
+2
+86
+84
+91
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+Alejandro Baled
+23
+3
+1
+0
+0
+0
+86
+84
+88
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Jan Oblak
+30
+13
+0
+1
+0
+0
+84
+82
+87
+1
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+0
+1
+Villareal
+9
+11
+-1
+3
+Pepe Reina
+39
+1
+0
+0
+0
+0
+82
+81
+79
+Raul Albiol
+37
+3
+1
+0
+0
+0
+74
+87
+79
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Juan Cuenca
+24
+5
+1
+1
+0
+0
+83
+82
+79
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Alex Baena
+28
+16
+2
+1
+0
+1
+82
+79
+81
+Denis Suarez
+27
+22
+2
+1
+0
+1
+83
+81
+79
+Gerard Moreno
+32
+7
+3
+0
+0
+0
+79
+81
+83
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Marcelino Garcia Toral
+49
+12
+Villareal
+Real Betis
+1
+11
+-1
+3
+Rui Silva
+28
+13
+0
+0
+0
+1
+77
+70
+76
+Marc Bartra
+30
+15
+1
+0
+0
+0
+72
+79
+73
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+German Alejo Pezzella
+30
+6
+1
+0
+0
+0
+74
+83
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+Nabil Fekir
+31
+8
+2
+0
+0
+0
+79
+75
+82
+Fransisco Alarcon Suarez
+34
+22
+2
+0
+0
+0
+79
+82
+83
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+Chimy Avila
+29
+9
+3
+0
+0
+0
+79
+71
+82
+Ayoze Perez
+27
+10
+3
+0
+0
+0
+76
+82
+81
+Willian Jose
+30
+12
+3
+0
+0
+0
+83
+77
+80
+Manuel Pellegrini
+27
+8
+Real Betis
+Benito Villamarin
+OME
+53000
+Juaqin Carlos Muniez
+41
+16
+14
+10
+2024
+3
+43
+66
+67
+0
+0
+0
+0
+2
+0
+3
+-1
+-1
+-1
+-1
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Denis Suarez
+27
+22
+2
+1
+0
+1
+83
+81
+79
+1
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+1
+0
+Atletico De Madrid
+3
+11
+-1
+3
+Jan Oblak
+30
+13
+0
+1
+0
+0
+84
+82
+87
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+0
+84
+86
+87
+Stefan Savic
+33
+15
+1
+0
+0
+0
+83
+85
+80
+Mario Hermoso
+28
+22
+1
+0
+0
+0
+84
+83
+82
+Axel Witsel
+31
+35
+1
+0
+0
+0
+82
+77
+86
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+Koke
+28
+6
+2
+0
+0
+0
+78
+82
+72
+Saul Niguez
+27
+8
+2
+0
+0
+1
+75
+82
+77
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alvaro Morata
+33
+19
+3
+0
+0
+0
+85
+88
+90
+Memphis Depay
+30
+9
+3
+0
+0
+0
+78
+82
+88
+Diego Simeone
+48
+13
+Atletico De Madrid
+Barcelona
+4
+11
+-1
+1
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+1
+87
+85
+86
+Joao Cancelo
+29
+2
+1
+0
+0
+0
+85
+83
+89
+Alejandro Baled
+23
+3
+1
+0
+0
+0
+86
+84
+88
+Ronald Araujo
+27
+4
+1
+0
+0
+0
+83
+88
+90
+Jules Kounde
+27
+23
+1
+1
+1
+0
+86
+84
+90
+Gavi
+18
+6
+2
+0
+0
+1
+83
+88
+81
+Pedri
+22
+8
+2
+0
+0
+0
+81
+86
+82
+Frenkie De Jong
+26
+21
+2
+0
+0
+0
+82
+80
+79
+Robert Lewandowski
+35
+9
+3
+0
+0
+2
+86
+84
+91
+Raphinha
+30
+11
+3
+0
+0
+1
+84
+83
+87
+Joao Felix
+28
+14
+3
+0
+0
+0
+83
+82
+79
+Xavi Hernandez
+38
+5
+Barcelona
+Camp Nou
+DEF
+90000
+Juan Carlos
+43
+11
+19
+10
+2024
+5
+16
+81
+87
+89
+90
+0
+0
+0
+1
+1
+3
+1
+-1
+-1
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+0
+84
+86
+87
+Saul Niguez
+27
+8
+2
+0
+0
+1
+75
+82
+77
+Gavi
+18
+6
+2
+0
+0
+1
+83
+88
+81
+Jules Kounde
+27
+23
+1
+1
+1
+0
+86
+84
+90
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+1
+87
+85
+86
+0
+0
+1
+Real Madrid
+5
+11
+-1
+1
+Thibuat Courtuis
+32
+1
+0
+1
+0
+0
+88
+87
+91
+Eder Millitao
+24
+3
+1
+0
+1
+1
+91
+89
+90
+David Alaba
+29
+4
+1
+0
+0
+0
+87
+90
+83
+Antonio Rudiger
+30
+22
+1
+1
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+0
+0
+87
+83
+91
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+2
+1
+0
+0
+87
+85
+91
+Kylian Mbappe
+25
+9
+5
+0
+0
+1
+94
+90
+97
+Carlo Anchelotti
+67
+31
+Real Madrid
+Villareal
+9
+11
+-1
+3
+Pepe Reina
+39
+1
+0
+0
+0
+0
+82
+81
+79
+Raul Albiol
+37
+3
+1
+0
+0
+0
+74
+87
+79
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Juan Cuenca
+24
+5
+1
+1
+0
+0
+83
+82
+79
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Alex Baena
+28
+16
+2
+1
+0
+1
+82
+79
+81
+Denis Suarez
+27
+22
+2
+1
+0
+1
+83
+81
+79
+Gerard Moreno
+32
+7
+3
+0
+0
+0
+79
+81
+83
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Marcelino Garcia Toral
+49
+12
+Villareal
+La Ceramica
+KTE
+43000
+Carlos Mansano
+39
+10
+22
+10
+2024
+7
+62
+76
+82
+86
+88
+89
+90
+3
+3
+1
+1
+2
+1
+3
+Alex Baena
+28
+16
+2
+1
+0
+1
+82
+79
+81
+Antonio Rudiger
+30
+22
+1
+1
+0
+0
+85
+88
+90
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Eder Millitao
+24
+3
+1
+0
+1
+1
+91
+89
+90
+Juan Cuenca
+24
+3
+1
+1
+0
+0
+83
+82
+79
+1
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+1
+2
+Real Madrid
+7
+11
+-1
+3
+Thibuat Courtuis
+32
+1
+0
+1
+0
+0
+88
+87
+91
+Eder Millitao
+24
+3
+1
+0
+1
+1
+91
+89
+90
+David Alaba
+29
+4
+1
+0
+0
+0
+87
+90
+83
+Antonio Rudiger
+30
+22
+1
+1
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+1
+0
+87
+83
+91
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+3
+3
+1
+0
+87
+85
+91
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Carlo Anchelotti
+67
+31
+Real Madrid
+Atletico De Madrid
+4
+11
+-1
+3
+Jan Oblak
+30
+13
+0
+1
+0
+0
+84
+82
+87
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+1
+84
+86
+87
+Stefan Savic
+33
+15
+1
+0
+0
+0
+83
+85
+80
+Mario Hermoso
+28
+22
+1
+0
+0
+0
+84
+83
+82
+Axel Witsel
+31
+35
+1
+0
+0
+0
+82
+77
+86
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+Koke
+28
+6
+2
+0
+0
+0
+78
+82
+72
+Saul Niguez
+27
+8
+2
+0
+0
+1
+75
+82
+77
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alvaro Morata
+33
+19
+3
+0
+0
+0
+85
+88
+90
+Memphis Depay
+30
+9
+3
+1
+0
+0
+78
+82
+88
+Diego Simeone
+48
+13
+Atletico De Madrid
+Wanda Metropolitano
+GHI
+60000
+Jesus Gil
+37
+6
+11
+11
+2024
+6
+60
+85
+86
+88
+89
+90
+0
+1
+3
+3
+2
+2
+0
+-1
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+1
+84
+86
+87
+Rodrigo Goes
+21
+11
+3
+3
+1
+0
+87
+85
+91
+Memphis Depay
+30
+9
+3
+1
+0
+0
+78
+82
+88
+Dani Carvajal
+31
+2
+1
+0
+1
+0
+87
+83
+91
+Rodrigo Goes
+21
+11
+3
+3
+1
+0
+87
+85
+91
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+2
+Dani Carvajal
+31
+2
+1
+0
+1
+0
+87
+83
+91
+Rodrigo Goes
+21
+11
+3
+3
+1
+0
+87
+85
+91
+1
+1
+Barcelona
+4
+11
+-1
+3
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+1
+87
+85
+86
+Joao Cancelo
+29
+2
+1
+0
+0
+0
+85
+83
+89
+Alejandro Baled
+23
+3
+1
+0
+0
+0
+86
+84
+88
+Ronald Araujo
+27
+4
+1
+0
+0
+0
+83
+88
+90
+Jules Kounde
+27
+23
+1
+1
+1
+0
+86
+84
+90
+Gavi
+18
+6
+2
+0
+0
+1
+83
+88
+81
+Pedri
+22
+8
+2
+1
+0
+0
+81
+86
+82
+Frenkie De Jong
+26
+21
+2
+0
+0
+0
+82
+80
+79
+Robert Lewandowski
+35
+9
+3
+0
+0
+2
+86
+84
+91
+Raphinha
+30
+11
+3
+0
+0
+1
+84
+83
+87
+Joao Felix
+28
+14
+3
+0
+0
+0
+83
+82
+79
+Xavi Hernandez
+38
+5
+Barcelona
+Real Betis
+4
+11
+-1
+1
+Rui Silva
+28
+13
+0
+0
+1
+1
+77
+70
+76
+Marc Bartra
+30
+15
+1
+1
+0
+0
+72
+79
+73
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+German Alejo Pezzella
+30
+6
+1
+0
+0
+0
+74
+83
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+Nabil Fekir
+31
+8
+2
+0
+0
+0
+79
+75
+82
+Fransisco Alarcon Suarez
+34
+22
+2
+2
+0
+0
+79
+82
+83
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+Chimy Avila
+29
+9
+3
+0
+0
+0
+79
+71
+82
+Ayoze Perez
+27
+10
+3
+0
+0
+0
+76
+82
+81
+Willian Jose
+30
+12
+3
+0
+0
+0
+83
+77
+80
+Manuel Pellegrini
+27
+8
+Real Betis
+Benito Villamarin
+OME
+53000
+Juaqin Carlos Muniez
+41
+16
+12
+12
+2024
+6
+83
+86
+87
+88
+89
+90
+0
+3
+2
+3
+0
+3
+3
+-1
+Marc Bartra
+30
+15
+1
+1
+0
+0
+72
+79
+73
+Rui Silva
+28
+13
+0
+0
+1
+1
+77
+70
+76
+Pedri
+22
+8
+2
+1
+0
+0
+81
+86
+82
+Marc Andre Ter Stegen
+30
+1
+0
+0
+0
+1
+87
+85
+86
+Fransisco Alarcon Suarez
+34
+22
+2
+2
+0
+0
+79
+82
+83
+Fransisco Alarcon Suarez
+34
+22
+2
+2
+0
+0
+79
+82
+83
+1
+Rui Silva
+28
+13
+0
+0
+1
+1
+77
+70
+76
+1
+3
+Real Madrid
+7
+11
+-1
+3
+Thibuat Courtuis
+32
+1
+0
+1
+0
+0
+88
+87
+91
+Eder Millitao
+24
+3
+1
+0
+1
+1
+91
+89
+90
+David Alaba
+29
+4
+1
+0
+0
+0
+87
+90
+83
+Antonio Rudiger
+30
+22
+1
+1
+0
+0
+85
+88
+90
+Dani Carvajal
+31
+2
+1
+0
+1
+0
+87
+83
+91
+Luka Mudric
+38
+10
+2
+0
+0
+0
+82
+90
+87
+Toni Kroos
+34
+8
+2
+0
+0
+0
+90
+88
+86
+Jude Bellingham
+20
+5
+2
+1
+0
+0
+93
+90
+94
+Vinicius Junior
+22
+7
+3
+0
+1
+0
+93
+90
+94
+Rodrigo Goes
+21
+11
+2
+3
+1
+0
+87
+85
+91
+Kylian Mbappe
+25
+9
+3
+0
+0
+1
+94
+90
+97
+Carlo Anchelotti
+67
+31
+Real Madrid
+Villareal
+10
+11
+-1
+1
+Pepe Reina
+39
+1
+0
+0
+1
+0
+82
+81
+79
+Raul Albiol
+37
+3
+1
+0
+0
+0
+74
+87
+79
+Alberto Moreno
+27
+18
+1
+0
+1
+0
+86
+82
+87
+Eric Bailly
+29
+12
+1
+1
+1
+1
+79
+87
+72
+Juan Cuenca
+24
+5
+1
+2
+0
+0
+83
+82
+79
+Dani Parejo
+38
+10
+2
+1
+0
+0
+79
+82
+84
+Manu Trigueros
+33
+14
+2
+1
+2
+1
+83
+79
+81
+Alex Baena
+28
+16
+2
+1
+0
+1
+82
+79
+81
+Denis Suarez
+27
+22
+2
+1
+0
+1
+83
+81
+79
+Gerard Moreno
+32
+7
+3
+0
+0
+0
+79
+81
+83
+Gonsalo Guedes
+28
+9
+3
+0
+0
+0
+78
+87
+74
+Marcelino Garcia Toral
+49
+12
+Villareal
+Santiago Bernabeu
+ABC
+85000
+Mateu Lauz
+38
+15
+15
+12
+2024
+3
+17
+31
+33
+0
+0
+0
+0
+3
+2
+3
+-1
+-1
+-1
+-1
+Rodrigo Goes
+21
+11
+3
+3
+1
+0
+87
+85
+91
+Pepe Reina
+39
+1
+0
+0
+1
+0
+82
+81
+79
+Juan Cuenca
+24
+5
+1
+2
+0
+0
+83
+82
+79
+1
+Pepe Reina
+39
+1
+0
+0
+1
+0
+82
+81
+79
+1
+1
+Real Betis
+4
+11
+0
+1
+Rui Silva
+28
+13
+0
+0
+1
+1
+77
+70
+76
+Marc Bartra
+30
+15
+1
+1
+0
+0
+72
+79
+73
+Hector Bellerin
+29
+2
+1
+0
+1
+0
+79
+82
+73
+German Alejo Pezzella
+30
+6
+1
+0
+0
+0
+74
+83
+73
+Juan Miranda Gonzalez
+27
+3
+1
+0
+1
+0
+77
+79
+82
+Nabil Fekir
+31
+8
+2
+0
+0
+0
+79
+75
+82
+Fransisco Alarcon Suarez
+34
+22
+2
+2
+0
+0
+79
+82
+83
+Pablo Fornals
+29
+18
+2
+1
+0
+1
+79
+72
+83
+Chimy Avila
+29
+9
+3
+0
+0
+0
+79
+71
+82
+Ayoze Perez
+27
+10
+3
+0
+0
+0
+76
+82
+81
+Willian Jose
+30
+12
+3
+0
+0
+0
+83
+77
+80
+Manuel Pellegrini
+27
+8
+Real Betis
+Atletico De Madrid
+7
+11
+-1
+3
+Jan Oblak
+30
+13
+0
+1
+0
+1
+84
+82
+87
+Jose Maria Gimenez
+29
+2
+1
+0
+0
+1
+84
+86
+87
+Stefan Savic
+33
+15
+1
+0
+0
+0
+83
+85
+80
+Mario Hermoso
+28
+22
+1
+1
+0
+0
+84
+83
+82
+Axel Witsel
+31
+35
+1
+0
+0
+0
+82
+77
+86
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+Koke
+28
+6
+2
+0
+0
+0
+78
+82
+72
+Saul Niguez
+27
+8
+2
+0
+0
+1
+75
+82
+77
+Antoine Griezmann
+31
+7
+3
+0
+1
+0
+91
+88
+90
+Alvaro Morata
+33
+19
+3
+0
+0
+0
+85
+88
+90
+Memphis Depay
+30
+9
+3
+1
+0
+0
+78
+82
+88
+Diego Simeone
+48
+13
+Atletico De Madrid
+Wanda Metropolitano
+GHI
+60000
+Juaqin Carlos Muniez
+41
+16
+25
+12
+2024
+3
+47
+71
+77
+0
+0
+0
+0
+3
+1
+0
+-1
+-1
+-1
+-1
+Mario Hermoso
+28
+22
+1
+1
+0
+0
+84
+83
+82
+Jan Oblak
+30
+13
+0
+1
+0
+1
+84
+82
+87
+Rodrigo De Paul
+29
+5
+2
+0
+1
+0
+77
+84
+79
+0
+0
+1
+5
+Mateu Lauz
+38
+15
+Juan Carlos
+43
+11
+Jesus Gil
+37
+6
+Carlos Mansano
+39
+10
+Juaqin Carlos Muniez
+41
+16
+5
+Santiago Bernabeu
+ABC
+85000
+Camp Nou
+DEF
+90000
+Wanda Metropolitano
+GHI
+60000
+La Ceramica
+KTE
+43000
+Benito Villamarin
+OME
+53000
+Primerleague
+United Kingdom
+6
+Arsenal
+6
+11
+-1
+3
+David Raya
+28
+22
+0
+0
+0
+0
+79
+81
+83
+Gabriel
+30
+6
+1
+1
+0
+0
+76
+80
+71
+Oleksandr Zinchenko
+25
+35
+1
+0
+0
+1
+76
+83
+74
+William Saliba
+24
+2
+1
+0
+1
+0
+77
+80
+86
+Ben White
+26
+4
+1
+0
+1
+1
+79
+81
+77
+Cedric
+24
+17
+2
+0
+0
+1
+86
+82
+79
+Martin Odegaard
+24
+8
+2
+0
+0
+0
+90
+89
+87
+Thomas Partey
+30
+5
+2
+1
+0
+0
+82
+79
+80
+Jorginho
+27
+20
+2
+0
+1
+0
+81
+79
+85
+Declan Rice
+27
+41
+3
+0
+0
+0
+86
+81
+88
+Bukayo Saka
+23
+7
+3
+0
+0
+0
+84
+80
+88
+Mikel Arteta
+44
+4
+Arsenal
+Chelsea
+10
+11
+-1
+3
+Robert Sanchez
+28
+1
+0
+0
+0
+0
+77
+79
+81
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Benoit Disasi
+24
+5
+1
+1
+1
+0
+77
+81
+73
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+Marc Cucurella
+27
+3
+1
+1
+0
+0
+84
+82
+88
+Mosies Caicedo
+26
+25
+2
+0
+0
+1
+83
+81
+88
+Enzo Fernandez
+24
+8
+2
+0
+0
+0
+79
+80
+86
+Mykhailo Mudryk
+25
+10
+2
+1
+1
+0
+86
+80
+87
+Raheem Sterling
+29
+7
+2
+1
+0
+0
+89
+80
+91
+Christopher Nkunku
+29
+18
+3
+0
+0
+0
+88
+84
+90
+Cole Palmer
+24
+20
+3
+1
+0
+0
+89
+86
+90
+Mauricio Pochettino
+47
+12
+Chelsea
+Liverpool
+5
+11
+-1
+3
+Alisson Becker
+30
+1
+0
+0
+0
+0
+78
+80
+76
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Andy Robertson
+27
+26
+1
+1
+0
+1
+77
+83
+81
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Virgil Van Dijk
+27
+4
+1
+1
+0
+0
+89
+84
+90
+Thiago Alcantara
+31
+6
+2
+0
+1
+2
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+1
+0
+86
+83
+90
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Luis Diaz
+27
+7
+2
+0
+0
+0
+81
+79
+85
+Mohamed Salah
+32
+11
+3
+1
+0
+0
+84
+88
+90
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Jorgen Klupp
+49
+19
+Liverpool
+Manchester City
+3
+11
+-1
+1
+Ederson
+30
+32
+0
+0
+1
+2
+84
+82
+83
+Ruben Dias
+28
+3
+1
+0
+0
+0
+87
+83
+90
+Josko Gvardiol
+25
+24
+1
+0
+0
+0
+77
+82
+79
+John Stones
+31
+5
+1
+0
+0
+0
+82
+80
+86
+Nethanel Ake
+28
+6
+1
+1
+0
+0
+86
+82
+88
+Kevin De Bruyne
+32
+17
+2
+0
+0
+1
+86
+82
+90
+Phil Foden
+25
+47
+2
+0
+0
+0
+83
+80
+88
+Jack Grealish
+25
+10
+2
+0
+0
+0
+82
+80
+90
+Julian Alvarez
+26
+19
+3
+0
+0
+0
+88
+83
+90
+Erling Haaland
+23
+9
+3
+0
+0
+0
+86
+83
+90
+Bernando Silva
+30
+20
+3
+0
+0
+0
+88
+80
+89
+Pep Guardiola
+55
+11
+Manchester City
+Manchester United
+8
+11
+-1
+3
+Adnre Onana
+34
+24
+0
+0
+0
+0
+89
+82
+84
+Harry Maguire
+27
+5
+1
+0
+0
+0
+73
+80
+76
+Raphael Varane
+30
+19
+1
+0
+1
+0
+78
+81
+77
+Luke Shaw
+30
+23
+1
+1
+0
+1
+87
+83
+77
+Lisandro Martinez
+28
+6
+1
+0
+0
+0
+86
+85
+70
+Bruno Fernandes
+28
+8
+2
+1
+0
+0
+83
+86
+81
+Carlos Henrique Casemiro
+30
+18
+2
+1
+0
+0
+83
+88
+81
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+Alejandro Garnacho
+21
+17
+2
+0
+0
+0
+88
+84
+90
+Marcus Rashford
+26
+10
+3
+1
+0
+0
+90
+82
+81
+Rasmus Hojlund
+22
+11
+3
+0
+0
+0
+81
+82
+79
+Eric Tan Hag
+38
+11
+Manchester United
+Tottenham Hotspur
+4
+11
+-1
+1
+Fraser Forster
+30
+20
+0
+0
+0
+0
+79
+77
+82
+Cristian Romero
+27
+17
+1
+1
+0
+0
+88
+83
+80
+Pedro Porro
+25
+23
+1
+0
+0
+0
+79
+84
+74
+Oliver Skipp
+26
+4
+1
+0
+0
+0
+75
+79
+76
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+James Maddison
+31
+10
+2
+0
+1
+1
+86
+81
+89
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+Yves Bissouma
+28
+8
+3
+0
+0
+1
+76
+81
+79
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Angelos Postecoglou
+57
+23
+Tottenham Hotspur
+13
+Manchester City
+3
+11
+-1
+1
+Ederson
+30
+32
+0
+0
+0
+1
+84
+82
+83
+Nethanel Ake
+28
+6
+1
+1
+0
+0
+86
+82
+88
+Ruben Dias
+28
+3
+1
+0
+0
+0
+87
+83
+90
+Josko Gvardiol
+25
+24
+1
+0
+0
+0
+77
+82
+79
+John Stones
+31
+5
+1
+0
+0
+0
+82
+80
+86
+Kevin De Bruyne
+32
+17
+2
+0
+0
+0
+86
+82
+90
+Phil Foden
+25
+47
+2
+0
+0
+0
+83
+80
+88
+Jack Grealish
+25
+10
+2
+0
+0
+0
+82
+80
+90
+Bernando Silva
+30
+20
+3
+0
+0
+0
+88
+80
+89
+Julian Alvarez
+26
+19
+3
+0
+0
+0
+88
+83
+90
+Erling Haaland
+23
+9
+3
+0
+0
+0
+86
+83
+90
+Pep Guardiola
+55
+11
+Manchester City
+Arsenal
+0
+11
+-1
+1
+David Raya
+28
+22
+0
+0
+0
+0
+79
+81
+83
+William Saliba
+24
+2
+1
+0
+0
+0
+77
+80
+86
+Ben White
+26
+4
+1
+0
+0
+0
+79
+81
+77
+Gabriel
+30
+6
+1
+0
+0
+0
+76
+80
+71
+Oleksandr Zinchenko
+25
+35
+1
+0
+0
+0
+76
+83
+74
+Cedric
+24
+17
+1
+0
+0
+1
+86
+82
+79
+Martin Odegaard
+24
+8
+2
+0
+0
+0
+90
+89
+87
+Thomas Partey
+30
+5
+2
+0
+0
+0
+82
+79
+80
+Jorginho
+27
+20
+2
+0
+0
+0
+81
+79
+85
+Declan Rice
+27
+41
+3
+0
+0
+0
+86
+81
+88
+Bukayo Saka
+23
+7
+3
+0
+0
+0
+84
+80
+88
+Mikel Arteta
+44
+4
+Arsenal
+Old Trafford
+DEI
+75000
+Michael Oliver
+38
+7
+9
+6
+2024
+3
+5
+33
+78
+0
+0
+0
+0
+1
+1
+3
+-1
+-1
+-1
+-1
+Ederson
+30
+32
+0
+0
+0
+1
+84
+82
+83
+Cedric
+24
+17
+1
+0
+0
+1
+86
+82
+79
+Nethanel Ake
+28
+6
+1
+1
+0
+0
+86
+82
+88
+0
+1
+0
+Chelsea
+1
+11
+-1
+3
+Robert Sanchez
+28
+1
+0
+0
+0
+0
+77
+79
+81
+Marc Cucurella
+27
+3
+1
+0
+0
+0
+84
+82
+88
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Benoit Disasi
+24
+5
+1
+0
+0
+0
+77
+81
+73
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+Mosies Caicedo
+26
+25
+2
+0
+0
+0
+83
+81
+88
+Enzo Fernandez
+24
+8
+2
+0
+0
+0
+79
+80
+86
+Mykhailo Mudryk
+25
+10
+2
+0
+0
+0
+86
+80
+87
+Raheem Sterling
+29
+7
+2
+0
+0
+0
+89
+80
+91
+Cole Palmer
+24
+20
+3
+0
+0
+0
+89
+86
+90
+Christopher Nkunku
+29
+18
+3
+0
+0
+0
+88
+84
+90
+Mauricio Pochettino
+47
+12
+Chelsea
+Manchester United
+1
+11
+-1
+1
+Adnre Onana
+34
+24
+0
+0
+0
+0
+89
+82
+84
+Lisandro Martinez
+28
+6
+1
+0
+0
+0
+86
+85
+70
+Harry Maguire
+27
+5
+1
+0
+0
+0
+73
+80
+76
+Raphael Varane
+30
+19
+1
+0
+0
+0
+78
+81
+77
+Luke Shaw
+30
+23
+1
+0
+0
+0
+87
+83
+77
+Bruno Fernandes
+28
+8
+2
+0
+0
+0
+83
+86
+81
+Carlos Henrique Casemiro
+30
+18
+2
+0
+0
+0
+83
+88
+81
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+Rasmus Hojlund
+22
+11
+3
+0
+0
+0
+81
+82
+79
+Marcus Rashford
+26
+10
+3
+0
+0
+0
+90
+82
+81
+Alejandro Garnacho
+21
+17
+3
+0
+0
+0
+88
+84
+90
+Eric Tan Hag
+38
+11
+Manchester United
+Old Trafford
+DEI
+75000
+Michael Oliver
+38
+7
+12
+6
+2024
+2
+55
+71
+0
+0
+0
+0
+0
+2
+0
+-1
+-1
+-1
+-1
+-1
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+Mykhailo Mudryk
+25
+10
+2
+0
+0
+0
+86
+80
+87
+1
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+0
+0
+Liverpool
+1
+11
+-1
+3
+Alisson Becker
+30
+1
+0
+0
+0
+0
+78
+80
+76
+Virgil Van Dijk
+27
+4
+1
+0
+0
+0
+89
+84
+90
+Joe Gomez
+26
+2
+1
+0
+0
+0
+79
+84
+73
+Andy Robertson
+27
+26
+1
+0
+0
+0
+77
+83
+81
+Trent Alexander Arnold
+24
+66
+1
+0
+0
+0
+90
+88
+87
+Thiago Alcantara
+31
+6
+2
+0
+0
+0
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+0
+0
+86
+83
+90
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Luis Diaz
+27
+7
+3
+0
+0
+0
+81
+79
+85
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Mohamed Salah
+32
+11
+3
+0
+0
+0
+84
+88
+90
+Jorgen Klupp
+49
+19
+Liverpool
+Tottenham Hotspur
+1
+11
+-1
+3
+Fraser Forster
+30
+20
+0
+0
+0
+0
+79
+77
+82
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+Cristian Romero
+27
+17
+1
+0
+0
+0
+88
+83
+80
+Pedro Porro
+25
+23
+1
+0
+0
+0
+79
+84
+74
+Oliver Skipp
+26
+4
+1
+0
+0
+0
+75
+79
+76
+James Maddison
+31
+10
+2
+0
+0
+0
+86
+81
+89
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Dejan Kulusevski
+22
+21
+2
+0
+0
+0
+88
+81
+86
+Richarlison
+32
+9
+3
+0
+0
+0
+86
+81
+87
+Heung Min Son
+32
+7
+3
+0
+0
+0
+91
+89
+94
+Yves Bissouma
+28
+8
+3
+0
+0
+0
+76
+81
+79
+Angelos Postecoglou
+57
+23
+Tottenham Hotspur
+Anfield
+OKD
+61000
+Stanley Rous
+51
+22
+20
+6
+2024
+2
+3
+29
+0
+0
+0
+0
+0
+2
+1
+-1
+-1
+-1
+-1
+-1
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+1
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+0
+0
+Arsenal
+3
+11
+-1
+1
+David Raya
+28
+22
+0
+0
+0
+0
+79
+81
+83
+William Saliba
+24
+2
+1
+0
+1
+0
+77
+80
+86
+Ben White
+26
+4
+1
+0
+1
+0
+79
+81
+77
+Gabriel
+30
+6
+1
+1
+0
+0
+76
+80
+71
+Oleksandr Zinchenko
+25
+35
+1
+0
+0
+1
+76
+83
+74
+Cedric
+24
+17
+1
+0
+0
+1
+86
+82
+79
+Martin Odegaard
+24
+8
+2
+0
+0
+0
+90
+89
+87
+Thomas Partey
+30
+5
+2
+0
+0
+0
+82
+79
+80
+Jorginho
+27
+20
+2
+0
+0
+0
+81
+79
+85
+Declan Rice
+27
+41
+2
+0
+0
+0
+86
+81
+88
+Bukayo Saka
+23
+7
+3
+0
+0
+0
+84
+80
+88
+Mikel Arteta
+44
+4
+Arsenal
+Liverpool
+1
+11
+-1
+3
+Alisson Becker
+30
+1
+0
+0
+0
+0
+78
+80
+76
+Virgil Van Dijk
+27
+4
+1
+0
+0
+0
+89
+84
+90
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Andy Robertson
+27
+26
+1
+0
+0
+0
+77
+83
+81
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Thiago Alcantara
+31
+6
+2
+0
+1
+1
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+0
+0
+86
+83
+90
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Luis Diaz
+27
+7
+3
+0
+0
+0
+81
+79
+85
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Mohamed Salah
+32
+11
+3
+0
+0
+0
+84
+88
+90
+Jorgen Klupp
+49
+19
+Liverpool
+Etihad Stadium
+IDK
+65000
+Michael Oliver
+38
+7
+25
+6
+2024
+7
+10
+16
+68
+87
+88
+89
+90
+2
+3
+2
+0
+2
+1
+2
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Gabriel
+30
+6
+1
+1
+0
+0
+76
+80
+71
+Thiago Alcantara
+31
+6
+2
+0
+1
+1
+84
+88
+90
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Ben White
+26
+4
+1
+0
+1
+0
+79
+81
+77
+Oleksandr Zinchenko
+25
+35
+1
+0
+0
+1
+76
+83
+74
+William Saliba
+24
+2
+1
+0
+1
+0
+77
+80
+86
+4
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Thiago Alcantara
+31
+6
+2
+0
+1
+1
+84
+88
+90
+Ben White
+26
+4
+1
+0
+1
+0
+79
+81
+77
+William Saliba
+24
+2
+1
+0
+1
+0
+77
+80
+86
+1
+0
+Chelsea
+4
+11
+-1
+3
+Robert Sanchez
+28
+1
+0
+0
+0
+0
+77
+79
+81
+Marc Cucurella
+27
+3
+1
+0
+0
+0
+84
+82
+88
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Benoit Disasi
+24
+5
+1
+0
+1
+0
+77
+81
+73
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+Mosies Caicedo
+26
+25
+2
+0
+0
+0
+83
+81
+88
+Enzo Fernandez
+24
+8
+2
+0
+0
+0
+79
+80
+86
+Mykhailo Mudryk
+25
+10
+2
+0
+1
+0
+86
+80
+87
+Raheem Sterling
+29
+7
+2
+0
+0
+0
+89
+80
+91
+Cole Palmer
+24
+20
+3
+1
+0
+0
+89
+86
+90
+Christopher Nkunku
+29
+18
+3
+0
+0
+0
+88
+84
+90
+Mauricio Pochettino
+47
+12
+Chelsea
+Manchester City
+3
+11
+-1
+3
+Ederson
+30
+32
+0
+0
+0
+2
+84
+82
+83
+Nethanel Ake
+28
+6
+1
+1
+0
+0
+86
+82
+88
+Ruben Dias
+28
+3
+1
+0
+0
+0
+87
+83
+90
+Josko Gvardiol
+25
+24
+1
+0
+0
+0
+77
+82
+79
+John Stones
+31
+5
+1
+0
+0
+0
+82
+80
+86
+Kevin De Bruyne
+32
+17
+2
+0
+0
+1
+86
+82
+90
+Phil Foden
+25
+47
+2
+0
+0
+0
+83
+80
+88
+Jack Grealish
+25
+10
+2
+0
+0
+0
+82
+80
+90
+Bernando Silva
+30
+20
+3
+0
+0
+0
+88
+80
+89
+Julian Alvarez
+26
+19
+3
+0
+0
+0
+88
+83
+90
+Erling Haaland
+23
+9
+3
+0
+0
+0
+86
+83
+90
+Pep Guardiola
+55
+11
+Manchester City
+Stamford Bridge
+KSD
+40000
+Matthew McQueen
+41
+9
+30
+6
+2024
+5
+37
+81
+87
+88
+89
+0
+0
+3
+2
+1
+1
+2
+-1
+-1
+Cole Palmer
+24
+20
+3
+1
+0
+0
+89
+86
+90
+Benoit Disasi
+24
+5
+1
+0
+1
+0
+77
+81
+73
+Ederson
+30
+32
+0
+0
+0
+2
+84
+82
+83
+Kevin De Bruyne
+32
+17
+2
+0
+0
+1
+86
+82
+90
+Mykhailo Mudryk
+25
+10
+3
+0
+1
+0
+86
+80
+87
+2
+Benoit Disasi
+24
+5
+1
+0
+1
+0
+77
+81
+73
+Mykhailo Mudryk
+25
+10
+3
+0
+1
+0
+86
+80
+87
+1
+0
+Manchester United
+4
+11
+-1
+3
+Adnre Onana
+34
+24
+0
+0
+0
+0
+89
+82
+84
+Lisandro Martinez
+28
+6
+1
+0
+0
+0
+86
+85
+70
+Harry Maguire
+27
+5
+1
+0
+0
+0
+73
+80
+76
+Raphael Varane
+30
+19
+1
+0
+1
+0
+78
+81
+77
+Luke Shaw
+30
+23
+1
+0
+0
+0
+87
+83
+77
+Bruno Fernandes
+28
+8
+2
+1
+0
+0
+83
+86
+81
+Carlos Henrique Casemiro
+30
+18
+2
+0
+0
+0
+83
+88
+81
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+Rasmus Hojlund
+22
+11
+3
+0
+0
+0
+81
+82
+79
+Marcus Rashford
+26
+10
+3
+1
+0
+0
+90
+82
+81
+Alejandro Garnacho
+21
+17
+3
+0
+0
+0
+88
+84
+90
+Eric Tan Hag
+38
+11
+Manchester United
+Liverpool
+1
+11
+-1
+3
+Alisson Becker
+30
+1
+0
+0
+0
+0
+78
+80
+76
+Virgil Van Dijk
+27
+4
+1
+0
+0
+0
+89
+84
+90
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Andy Robertson
+27
+26
+1
+0
+0
+0
+77
+83
+81
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Thiago Alcantara
+31
+6
+2
+0
+1
+1
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+0
+0
+86
+83
+90
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Luis Diaz
+27
+7
+3
+0
+0
+0
+81
+79
+85
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Mohamed Salah
+32
+11
+3
+0
+0
+0
+84
+88
+90
+Jorgen Klupp
+49
+19
+Liverpool
+Old Trafford
+DEI
+75000
+Michael Oliver
+38
+7
+11
+7
+2024
+6
+32
+62
+87
+88
+89
+90
+0
+3
+3
+2
+2
+0
+1
+-1
+Marcus Rashford
+26
+10
+3
+1
+0
+0
+90
+82
+81
+Bruno Fernandes
+28
+8
+2
+1
+0
+0
+83
+86
+81
+Raphael Varane
+30
+19
+1
+0
+1
+0
+78
+81
+77
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Thiago Alcantara
+31
+6
+2
+0
+1
+1
+84
+88
+90
+2
+Raphael Varane
+30
+19
+1
+0
+1
+0
+78
+81
+77
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+2
+0
+Tottenham Hotspur
+4
+11
+-1
+1
+Fraser Forster
+30
+20
+0
+0
+0
+0
+79
+77
+82
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+Cristian Romero
+27
+17
+1
+1
+0
+0
+88
+83
+80
+Pedro Porro
+25
+23
+1
+0
+0
+0
+79
+84
+74
+Oliver Skipp
+26
+4
+1
+0
+0
+0
+75
+79
+76
+James Maddison
+31
+10
+2
+0
+0
+0
+86
+81
+89
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+Yves Bissouma
+28
+8
+3
+0
+0
+0
+76
+81
+79
+Angelos Postecoglou
+57
+23
+Tottenham Hotspur
+Chelsea
+4
+11
+-1
+3
+Robert Sanchez
+28
+1
+0
+0
+0
+0
+77
+79
+81
+Marc Cucurella
+27
+3
+1
+0
+0
+0
+84
+82
+88
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Benoit Disasi
+24
+5
+1
+0
+1
+0
+77
+81
+73
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+Mosies Caicedo
+26
+25
+2
+0
+0
+0
+83
+81
+88
+Enzo Fernandez
+24
+8
+2
+0
+0
+0
+79
+80
+86
+Mykhailo Mudryk
+25
+10
+2
+0
+1
+0
+86
+80
+87
+Raheem Sterling
+29
+7
+2
+0
+0
+0
+89
+80
+91
+Cole Palmer
+24
+20
+3
+1
+0
+0
+89
+86
+90
+Christopher Nkunku
+29
+18
+3
+0
+0
+0
+88
+84
+90
+Mauricio Pochettino
+47
+12
+Chelsea
+Stamford Bridge
+KSD
+40000
+Stanley Rous
+51
+22
+14
+7
+2024
+5
+85
+87
+88
+89
+90
+0
+0
+3
+2
+3
+3
+2
+-1
+-1
+Cristian Romero
+27
+17
+1
+1
+0
+0
+88
+83
+80
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+2
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+3
+0
+Manchester United
+7
+11
+-1
+1
+Adnre Onana
+34
+24
+0
+0
+0
+0
+89
+82
+84
+Lisandro Martinez
+28
+6
+1
+0
+0
+0
+86
+85
+70
+Harry Maguire
+27
+5
+1
+0
+0
+0
+73
+80
+76
+Raphael Varane
+30
+19
+1
+0
+1
+0
+78
+81
+77
+Luke Shaw
+30
+23
+1
+0
+0
+0
+87
+83
+77
+Bruno Fernandes
+28
+8
+2
+1
+0
+0
+83
+86
+81
+Carlos Henrique Casemiro
+30
+18
+2
+1
+0
+0
+83
+88
+81
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+Rasmus Hojlund
+22
+11
+3
+0
+0
+0
+81
+82
+79
+Marcus Rashford
+26
+10
+3
+1
+0
+0
+90
+82
+81
+Alejandro Garnacho
+21
+17
+3
+0
+0
+0
+88
+84
+90
+Eric Tan Hag
+38
+11
+Manchester United
+Manchester City
+3
+11
+-1
+3
+Ederson
+30
+32
+0
+0
+1
+2
+84
+82
+83
+Nethanel Ake
+28
+6
+1
+1
+0
+0
+86
+82
+88
+Ruben Dias
+28
+3
+1
+0
+0
+0
+87
+83
+90
+Josko Gvardiol
+25
+24
+1
+0
+0
+0
+77
+82
+79
+John Stones
+31
+5
+1
+0
+0
+0
+82
+80
+86
+Kevin De Bruyne
+32
+17
+2
+0
+0
+1
+86
+82
+90
+Phil Foden
+25
+47
+2
+0
+0
+0
+83
+80
+88
+Jack Grealish
+25
+10
+2
+0
+0
+0
+82
+80
+90
+Bernando Silva
+30
+20
+3
+0
+0
+0
+88
+80
+89
+Julian Alvarez
+26
+19
+3
+0
+0
+0
+88
+83
+90
+Erling Haaland
+23
+9
+3
+0
+0
+0
+86
+83
+90
+Pep Guardiola
+55
+11
+Manchester City
+Etihad Stadium
+IDK
+65000
+Howard Webb
+48
+13
+22
+7
+2024
+2
+27
+90
+0
+0
+0
+0
+0
+2
+3
+-1
+-1
+-1
+-1
+-1
+Ederson
+30
+32
+0
+0
+1
+2
+84
+82
+83
+Carlos Henrique Casemiro
+30
+18
+2
+1
+0
+0
+83
+88
+81
+1
+Ederson
+30
+32
+0
+0
+1
+2
+84
+82
+83
+1
+0
+Liverpool
+4
+11
+-1
+3
+Alisson Becker
+30
+1
+0
+0
+0
+0
+78
+80
+76
+Virgil Van Dijk
+27
+4
+1
+1
+0
+0
+89
+84
+90
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Andy Robertson
+27
+26
+1
+0
+0
+0
+77
+83
+81
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Thiago Alcantara
+31
+6
+2
+0
+1
+2
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+1
+0
+86
+83
+90
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Luis Diaz
+27
+7
+3
+0
+0
+0
+81
+79
+85
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Mohamed Salah
+32
+11
+3
+1
+0
+0
+84
+88
+90
+Jorgen Klupp
+49
+19
+Liverpool
+Tottenham Hotspur
+4
+11
+-1
+3
+Fraser Forster
+30
+20
+0
+0
+0
+0
+79
+77
+82
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+Cristian Romero
+27
+17
+1
+1
+0
+0
+88
+83
+80
+Pedro Porro
+25
+23
+1
+0
+0
+0
+79
+84
+74
+Oliver Skipp
+26
+4
+1
+0
+0
+0
+75
+79
+76
+James Maddison
+31
+10
+2
+0
+0
+0
+86
+81
+89
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+Yves Bissouma
+28
+8
+3
+0
+0
+0
+76
+81
+79
+Angelos Postecoglou
+57
+23
+Tottenham Hotspur
+Tottenham Hotspur Stadium
+ISN
+59000
+Michael Oliver
+38
+7
+29
+7
+2024
+5
+52
+68
+86
+89
+90
+0
+0
+1
+3
+0
+3
+2
+-1
+-1
+Thiago Alcantara
+31
+6
+2
+0
+1
+2
+84
+88
+90
+Virgil Van Dijk
+27
+4
+1
+1
+0
+0
+89
+84
+90
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Mohamed Salah
+32
+11
+3
+1
+0
+0
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+1
+0
+86
+83
+90
+1
+Dominik Szoboszlai
+28
+8
+2
+0
+1
+0
+86
+83
+90
+2
+0
+Arsenal
+3
+11
+-1
+3
+David Raya
+28
+22
+0
+0
+0
+0
+79
+81
+83
+William Saliba
+24
+2
+1
+0
+1
+0
+77
+80
+86
+Ben White
+26
+4
+1
+0
+1
+0
+79
+81
+77
+Gabriel
+30
+6
+1
+1
+0
+0
+76
+80
+71
+Oleksandr Zinchenko
+25
+35
+1
+0
+0
+1
+76
+83
+74
+Cedric
+24
+17
+1
+0
+0
+1
+86
+82
+79
+Martin Odegaard
+24
+8
+2
+0
+0
+0
+90
+89
+87
+Thomas Partey
+30
+5
+2
+0
+0
+0
+82
+79
+80
+Jorginho
+27
+20
+2
+0
+1
+0
+81
+79
+85
+Declan Rice
+27
+41
+2
+0
+0
+0
+86
+81
+88
+Bukayo Saka
+23
+7
+3
+0
+0
+0
+84
+80
+88
+Mikel Arteta
+44
+4
+Arsenal
+Chelsea
+7
+11
+-1
+3
+Robert Sanchez
+28
+1
+0
+0
+0
+0
+77
+79
+81
+Marc Cucurella
+27
+3
+1
+1
+0
+0
+84
+82
+88
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Benoit Disasi
+24
+5
+1
+1
+1
+0
+77
+81
+73
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+Mosies Caicedo
+26
+25
+2
+0
+0
+0
+83
+81
+88
+Enzo Fernandez
+24
+8
+2
+0
+0
+0
+79
+80
+86
+Mykhailo Mudryk
+25
+10
+2
+1
+1
+0
+86
+80
+87
+Raheem Sterling
+29
+7
+2
+0
+0
+0
+89
+80
+91
+Cole Palmer
+24
+20
+3
+1
+0
+0
+89
+86
+90
+Christopher Nkunku
+29
+18
+3
+0
+0
+0
+88
+84
+90
+Mauricio Pochettino
+47
+12
+Chelsea
+Etihad Stadium
+IDK
+65000
+Martin Taylor
+46
+7
+31
+7
+2024
+6
+53
+81
+82
+83
+86
+89
+0
+3
+3
+0
+2
+0
+3
+-1
+Benoit Disasi
+24
+5
+1
+1
+1
+0
+77
+81
+73
+Marc Cucurella
+27
+3
+1
+1
+0
+0
+84
+82
+88
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Jorginho
+27
+20
+2
+0
+1
+0
+81
+79
+85
+Cedric
+24
+17
+1
+0
+0
+1
+86
+82
+79
+Mykhailo Mudryk
+25
+10
+2
+1
+1
+0
+86
+80
+87
+1
+Jorginho
+27
+20
+2
+0
+1
+0
+81
+79
+85
+0
+3
+Manchester United
+8
+11
+-1
+1
+Adnre Onana
+34
+24
+0
+0
+0
+0
+89
+82
+84
+Lisandro Martinez
+28
+6
+1
+0
+0
+0
+86
+85
+70
+Harry Maguire
+27
+5
+1
+0
+0
+0
+73
+80
+76
+Raphael Varane
+30
+19
+1
+0
+1
+0
+78
+81
+77
+Luke Shaw
+30
+23
+1
+1
+0
+1
+87
+83
+77
+Bruno Fernandes
+28
+8
+2
+1
+0
+0
+83
+86
+81
+Carlos Henrique Casemiro
+30
+18
+2
+1
+0
+0
+83
+88
+81
+Mason Mount
+26
+7
+2
+0
+1
+0
+73
+82
+81
+Rasmus Hojlund
+22
+11
+3
+0
+0
+0
+81
+82
+79
+Marcus Rashford
+26
+10
+3
+1
+0
+0
+90
+82
+81
+Alejandro Garnacho
+21
+17
+3
+0
+0
+0
+88
+84
+90
+Eric Tan Hag
+38
+11
+Manchester United
+Liverpool
+5
+11
+-1
+1
+Alisson Becker
+30
+1
+0
+0
+0
+0
+78
+80
+76
+Virgil Van Dijk
+27
+4
+1
+1
+0
+0
+89
+84
+90
+Joe Gomez
+26
+2
+1
+0
+1
+0
+79
+84
+73
+Andy Robertson
+27
+26
+1
+1
+0
+1
+77
+83
+81
+Trent Alexander Arnold
+24
+66
+1
+0
+1
+0
+90
+88
+87
+Thiago Alcantara
+31
+6
+2
+0
+1
+2
+84
+88
+90
+Dominik Szoboszlai
+28
+8
+2
+0
+1
+0
+86
+83
+90
+Alexis Mac Allister
+26
+10
+2
+0
+0
+0
+81
+86
+79
+Luis Diaz
+27
+7
+3
+0
+0
+0
+81
+79
+85
+Darwin Nunez
+29
+9
+3
+0
+1
+0
+79
+81
+83
+Mohamed Salah
+32
+11
+3
+1
+0
+0
+84
+88
+90
+Jorgen Klupp
+49
+19
+Liverpool
+Anfield
+OKD
+61000
+Howard Webb
+48
+13
+12
+12
+2024
+4
+17
+27
+82
+89
+0
+0
+0
+1
+3
+3
+1
+-1
+-1
+-1
+Luke Shaw
+30
+23
+1
+1
+0
+1
+87
+83
+77
+Andy Robertson
+27
+26
+1
+1
+0
+1
+77
+83
+81
+Luke Shaw
+30
+23
+1
+1
+0
+1
+87
+83
+77
+Andy Robertson
+27
+26
+1
+1
+0
+1
+77
+83
+81
+0
+1
+1
+Tottenham Hotspur
+4
+11
+-1
+3
+Fraser Forster
+30
+20
+0
+0
+0
+0
+79
+77
+82
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+Cristian Romero
+27
+17
+1
+1
+0
+0
+88
+83
+80
+Pedro Porro
+25
+23
+1
+0
+0
+0
+79
+84
+74
+Oliver Skipp
+26
+4
+1
+0
+0
+0
+75
+79
+76
+James Maddison
+31
+10
+2
+0
+1
+0
+86
+81
+89
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+Yves Bissouma
+28
+8
+3
+0
+0
+1
+76
+81
+79
+Angelos Postecoglou
+57
+23
+Tottenham Hotspur
+Arsenal
+6
+11
+-1
+3
+David Raya
+28
+22
+0
+0
+0
+0
+79
+81
+83
+William Saliba
+24
+2
+1
+0
+1
+0
+77
+80
+86
+Ben White
+26
+4
+1
+0
+1
+1
+79
+81
+77
+Gabriel
+30
+6
+1
+1
+0
+0
+76
+80
+71
+Oleksandr Zinchenko
+25
+35
+1
+0
+0
+1
+76
+83
+74
+Cedric
+24
+17
+1
+0
+0
+1
+86
+82
+79
+Martin Odegaard
+24
+8
+2
+0
+0
+0
+90
+89
+87
+Thomas Partey
+30
+5
+2
+1
+0
+0
+82
+79
+80
+Jorginho
+27
+20
+2
+0
+1
+0
+81
+79
+85
+Declan Rice
+27
+41
+2
+0
+0
+0
+86
+81
+88
+Bukayo Saka
+23
+7
+3
+0
+0
+0
+84
+80
+88
+Mikel Arteta
+44
+4
+Arsenal
+Tottenham Hotspur Stadium
+ISN
+59000
+Martin Taylor
+46
+7
+15
+12
+2024
+5
+12
+22
+87
+89
+90
+0
+0
+3
+1
+0
+2
+1
+-1
+-1
+Thomas Partey
+30
+5
+2
+1
+0
+0
+82
+79
+80
+Ben White
+26
+4
+1
+0
+1
+1
+79
+81
+77
+Ben White
+26
+4
+1
+0
+1
+1
+79
+81
+77
+James Maddison
+31
+10
+2
+0
+1
+0
+86
+81
+89
+Yves Bissouma
+28
+8
+3
+0
+0
+1
+76
+81
+79
+1
+James Maddison
+31
+10
+2
+0
+1
+0
+86
+81
+89
+0
+1
+Chelsea
+10
+11
+-1
+3
+Robert Sanchez
+28
+1
+0
+0
+0
+0
+77
+79
+81
+Marc Cucurella
+27
+3
+1
+1
+0
+0
+84
+82
+88
+Thiago Silva
+37
+6
+1
+0
+0
+0
+84
+82
+88
+Benoit Disasi
+24
+5
+1
+1
+1
+0
+77
+81
+73
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+Mosies Caicedo
+26
+25
+2
+0
+0
+1
+83
+81
+88
+Enzo Fernandez
+24
+8
+2
+0
+0
+0
+79
+80
+86
+Mykhailo Mudryk
+25
+10
+2
+1
+1
+0
+86
+80
+87
+Raheem Sterling
+29
+7
+2
+1
+0
+0
+89
+80
+91
+Cole Palmer
+24
+20
+3
+1
+0
+0
+89
+86
+90
+Christopher Nkunku
+29
+18
+3
+0
+0
+0
+88
+84
+90
+Mauricio Pochettino
+47
+12
+Chelsea
+Tottenham Hotspur
+4
+11
+-1
+1
+Fraser Forster
+30
+20
+0
+0
+0
+0
+79
+77
+82
+Emerson Royal
+29
+12
+1
+0
+0
+1
+76
+80
+73
+Cristian Romero
+27
+17
+1
+1
+0
+0
+88
+83
+80
+Pedro Porro
+25
+23
+1
+0
+0
+0
+79
+84
+74
+Oliver Skipp
+26
+4
+1
+0
+0
+0
+75
+79
+76
+James Maddison
+31
+10
+2
+0
+1
+1
+86
+81
+89
+Manor Solomon
+26
+27
+2
+0
+0
+0
+89
+88
+90
+Dejan Kulusevski
+22
+21
+2
+0
+1
+0
+88
+81
+86
+Richarlison
+32
+9
+3
+2
+0
+0
+86
+81
+87
+Heung Min Son
+32
+7
+3
+0
+1
+0
+91
+89
+94
+Yves Bissouma
+28
+8
+3
+0
+0
+1
+76
+81
+79
+Angelos Postecoglou
+57
+23
+Tottenham Hotspur
+Stamford Bridge
+KSD
+40000
+Martin Taylor
+46
+7
+29
+12
+2024
+4
+81
+82
+88
+90
+0
+0
+0
+0
+1
+3
+1
+-1
+-1
+-1
+Reece James
+28
+24
+1
+0
+0
+0
+90
+81
+92
+James Maddison
+31
+10
+2
+0
+1
+1
+86
+81
+89
+Raheem Sterling
+29
+7
+2
+1
+0
+0
+89
+80
+91
+Mosies Caicedo
+26
+25
+2
+0
+0
+1
+83
+81
+88
+0
+1
+0
+5
+Martin Taylor
+46
+7
+Michael Oliver
+38
+7
+Howard Webb
+48
+13
+Matthew McQueen
+41
+9
+Stanley Rous
+51
+22
+6
+Old Trafford
+DEI
+75000
+Etihad Stadium
+IDK
+65000
+Tottenham Hotspur Stadium
+ISN
+59000
+Stamford Bridge
+KSD
+40000
+Emirates Stadium
+MSI
+61000
+Anfield
+OKD
+61000
